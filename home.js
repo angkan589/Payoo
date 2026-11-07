@@ -157,7 +157,7 @@ document.getElementById("transactions").addEventListener("click", function(){
         <div class="rounded-xl bg-white p-3 flex justify-between items-center">
                 <div class="flex items-center gap-5">
                     <div class="p-3 rounded-full bg-gray-200 ">
-                        <img src="/Payoo-MFS-Resources/assets/wallet1.png" alt="">
+                        <img src="./Payoo-MFS-Resources/assets/wallet1.png" alt="">
                     </div>
                     <div>
                         <h1 class="font-bold">${data.name}</h1>
